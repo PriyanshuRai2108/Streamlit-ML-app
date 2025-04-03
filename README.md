@@ -84,7 +84,7 @@ pip install streamlit pandas matplotlib seaborn scikit-learn shap
 ## Screenshots
 
 ### Data Exploration
-![Data Exploration Screenshot](https://github.com/Tanmay-hue/Streamlit_ml_app/blob/main/image/1.png)
+![Data Exploration Screenshot](https://github.com/PriyanshuRai2108/Streamlit-ML-app/blob/main/image/1.png)
 
 ### Model Training
 ![Model Training Screenshot](https://github.com/Tanmay-hue/Streamlit_ml_app/blob/main/image/3.png)
