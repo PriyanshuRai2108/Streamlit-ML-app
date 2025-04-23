@@ -22,8 +22,8 @@ The application leverages Streamlit for an interactive UI, Scikit-learn for mach
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ml-data-exploration-app.git
-cd ml-data-exploration-app
+git clone https://github.com/PriyanshuRai2108/Streamlit-ML-app.git
+cd Streamlit-ML-app
 ```
 
 ### Install the required packages
